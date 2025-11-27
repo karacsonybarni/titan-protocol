@@ -1,5 +1,5 @@
-# THE TITAN PROTOCOL
-**Blueprint for a Post-Scarcity, High-Automation Civilization**
+# THE TITAN PROTOCOL v2.1  
+**Blueprint for a Post-Scarcity, High-Automation, & Epistemically Sound Civilization**
 
 ---
 
@@ -9,30 +9,25 @@
 
 To transition humanity from a **Survival Economy** (labor-for-living) to a **Sovereign Evolutionary State** (fully funded existence with meaningful voluntary challenge), by:
 
-- Automating nearly all economically necessary labor.
-- Distributing the gains of automation broadly.
-- Preventing collapse, tyranny, and irreversible catastrophe.
-- Maintaining room for human growth, struggle, and frontier.
+- Automating nearly all economically necessary labor.  
+- Distributing the gains of automation broadly.  
+- Preventing collapse, tyranny, and irreversible catastrophe.  
+- **Safeguarding human psychological sovereignty and shared reality.** (v2.1)
 
 ### 0.2 Design Constraints
 
 Titan assumes:
 
-- Automation and AI capabilities continue to grow rapidly.
-- Multiple powerful nation-blocs exist.
+- Automation and AI capabilities continue to grow rapidly.  
+- Multiple powerful nation-blocs exist in competitive tension.  
 - Coordination is partial and imperfect.
 
 The protocol is not designed to produce “zero downsides.”  
 Instead, it is built to achieve:
 
-1. **No unbounded downside**  
-   – Failures are local and recoverable, not global and irreversible.
-
-2. **No involuntary downside for ordinary people**  
-   – Baseline security and rights are guaranteed, independent of role.
-
-3. **Downsides are transparent trade-offs**  
-   – Major risks are taken only via visible, accountable processes.
+- **No unbounded downside** – Failures are local and recoverable, not global and irreversible.  
+- **No involuntary downside for ordinary people** – Baseline security and rights are guaranteed, independent of role.  
+- **Downsides are transparent trade-offs** – Major risks are taken only via visible, accountable processes.
 
 ---
 
@@ -44,536 +39,337 @@ Titan is implemented by a **Coalition** of jurisdictions (countries, unions, cit
 
 Coalition governance is split into several **independent councils**:
 
-- **Economic Council (EC):**  
-  Sovereign License framework, Robot VAT / Atom Tax, UHI and wealth funds.
-- **Safety Council (SC):**  
-  AI capability tiers, sandbox rules, high-risk tech classification.
-- **Rights Council (RC):**  
-  Constitutional oversight, rights enforcement, appeal handling.
-- **Frontier & Science Council (FSC):**  
-  Space programs, large-scale scientific projects, Frontier Protocol.
-- **Audit & Transparency Office (ATO):**  
-  Independent verification, logging, public reporting across all layers.
+- **Economic Council (EC):** Sovereign License, Robot VAT / Atom Tax, UHI, wealth funds.  
+- **Safety Council (SC):** AI capability tiers, sandbox rules, high-risk tech classification.  
+- **Rights Council (RC):** Constitutional oversight, rights enforcement, appeals.  
+- **Frontier & Science Council (FSC):** Space programs, megaprojects, Frontier Protocol.  
+- **Audit & Transparency Office (ATO):** Independent verification, logging, public reporting.
 
 No single council can unilaterally:
 
-- Declare an AGI WMD.
-- Authorize kinetic containment.
-- Modify the constitution.
+- Declare an AGI WMD.  
+- Authorize kinetic containment.  
+- Modify the constitution.  
 - Change its own selection rules.
 
 ### 1.2 Citizen Assemblies & Expert Seats
 
 Each council is composed of:
 
-- **Randomly selected citizen assemblies (majority share)**  
-  – Rotating cohorts, term-limited, with AI tools to support understanding.
-- **Elected or appointed experts (minority share)**  
-  – Technical, legal, security, and ethical specialists.
-- **Conflict-of-interest transparency:**  
-  – All members must disclose financial and institutional ties.
+- **Randomly selected citizen assemblies (majority share)** – large cohorts, term-limited, with AI tools to support understanding.  
+- **Elected or appointed experts (minority share)** – technical, legal, security, and ethical specialists.
+
+Citizen assemblies are refreshed regularly to prevent capture, and deliberations are assisted by transparent AI explainers so non-experts can meaningfully participate.
+
+All members must disclose financial and institutional ties; conflicts of interest are logged and can trigger recusal.
 
 ### 1.3 Cryptographic & Procedural Safeguards
 
 High-impact decisions (e.g. Sovereign License revocation, kinetic action, major AI capability elevation) require:
 
-- **Multi-signature approval** from multiple councils.
-- **Time-locked and hashed public logs** of decisions and rationales (with allowed redactions).
-- **Automatic sunset clauses:**  
-  Extraordinary powers expire unless periodically re-ratified.
+- **Multi-signature approval** from multiple councils.  
+- **Time-locked and hashed public logs** of decisions and rationales (with allowed redactions).  
+- **Automatic sunset clauses** – extraordinary powers expire unless periodically re-ratified.
 
 ### 1.4 Versioning & Transition
 
 Titan is deployed in **phases**:
 
-- **Titan v0.1: Local Pilots**
-  - City- or country-scale trials of:
-    - Atom Tax experiments,
-    - small-scale Universal High Income (UHI),
-    - limited Builder Tracks.
-  - Clear metrics and time limits.
-
-- **Titan v0.5: Interoperable Pilots**
-  - Multiple jurisdictions coordinate:
-    - compatible Sovereign License standards,
-    - shared AI audit specifications,
-    - data-sharing on incidents.
-
-- **Titan v1.0+: Coalition Protocol**
-  - Treaty-level commitments,
-  - fully functional councils and funds,
-  - shared compute and export-control policies.
-
-Non-Coalition states may interact with the Coalition but are not bound by Titan rules, except where explicitly agreed (e.g. safety treaties).
+- **Titan v0.1: Local Pilots** – Atom Tax experiments, small-scale UHI, limited Builder Tracks.  
+- **Titan v0.5: Interoperable Pilots** – compatible Sovereign License standards, shared AI safety specs.  
+- **Titan v1.0+: Coalition Protocol** – treaty-level commitments, fully functional councils, shared compute/export policies.
 
 ---
 
 ## LEVEL 1 — THE ECONOMIC KERNEL  
-**(Distribution, Stability, and Incentives)**
+*(Distribution, Stability, Incentives)*
 
 ### 1.1 Sovereign License & Market Access
 
 **Goal:**  
-Prevent destructive race-to-the-bottom dynamics and extreme wealth concentration in a borderless digital economy.
+Prevent destructive race-to-the-bottom dynamics and extreme wealth concentration.
 
 **Mechanism:**
 
-- Access to Coalition consumer markets (physical and digital) requires a **Sovereign License (SL)**.
-- To obtain and maintain an SL, corporations and large platforms must:
-  - Pay Atom/Energy-based taxes where applicable.
-  - Comply with labor, environmental, and safety standards.
-  - Submit to periodic financial and algorithmic transparency audits.
+- Access to Coalition consumer markets requires a **Sovereign License (SL)**.  
+- Entities must:
+  - Pay Atom/Energy-based taxes where applicable.  
+  - Comply with labor, environmental, and safety standards.  
+  - Submit to periodic transparency audits.
 
 **Enforcement:**
 
-- Non-compliant entities can be:
-  - Geo-fenced from Coalition markets,
-  - Blocked from Coalition financial rails and app stores.
-- Entities may still operate in non-Coalition jurisdictions but forfeit easy access to the largest, richest consumer base.
+- Non-compliant entities may be:
+  - Geo-fenced from Coalition markets.  
+  - Blocked from Coalition financial rails.  
 
-**Safeguards:**
-
-- Revocation of an SL requires:
-  - Economic Council proposal,
-  - Rights Council review for proportionality,
-  - Public summary of the decision.
-- SL rules are published and stable, with lead time for any major changes.
-
----
+They can still operate elsewhere, but lose easy access to the largest, richest consumer base.
 
 ### 1.2 Robot VAT & Atom Tax
 
 **Goal:**  
-Shift the tax base from human labor to **energy and automation**, aligning revenue with productivity.
+Shift the tax base from human labor to **energy and automation**.
 
 **Components:**
 
-1. **Energy Tax (Atom Tax):**
-   - Levy on:
-     - data centers,
-     - large industrial automation sites,
-     - high-end compute clusters.
-   - Rate adjusts based on:
-     - environmental impact,
-     - local energy mix (clean vs fossil-heavy),
-     - automation intensity.
-
-2. **Automation VAT (Robot VAT):**
-   - A value-added tax embedded in the output of automated production.
-   - Applies when:
-     - a substantial fraction of value creation is AI-driven or robotic.
-
-3. **Sovereign Equity Contribution:**
-   - Automated firms above a certain scale transfer an annual **equity slice** to the **Public Wealth Fund**.
-   - Calibrated to avoid de facto expropriation:
-     - e.g. a small, predictable percentage with long-term caps,
-     - transparent formulas and long-term stability.
-
-**Design Principles:**
-
-- Simple to measure at large scales.
-- Hard to evade for major players.
-- Predictable over decades to preserve private investment incentives.
-
----
+- **Energy Tax (Atom Tax):** Levy on data centers and high-end compute/automation sites.  
+- **Automation VAT (Robot VAT):** Applies when value creation is primarily AI/robot-driven.  
+- **Sovereign Equity Contribution:** Large automated firms transfer a small, predictable equity slice to the **Public Wealth Fund**.
 
 ### 1.3 Public Wealth Fund & Universal High Income (UHI)
 
 **Goal:**  
-Provide a **baseline of high material security** to all citizens, funded by automation gains.
+Provide a **baseline of high material security**.
 
 **Mechanisms:**
 
-- **Public Wealth Fund (PWF):**
-  - Holds a diversified portfolio:
-    - atom-tax revenues,
-    - equity contributions,
-    - sovereign assets.
-  - Managed by an independent body with:
-    - strict transparency,
-    - anti-corruption safeguards,
-    - multi-council oversight.
+- **Public Wealth Fund (PWF):**  
+  - Holds atom-tax revenues, equity contributions, and sovereign assets.  
+  - Managed by an independent body under multi-council oversight.
 
-- **Universal High Income (UHI):**
-  - Regular dividend to all adult citizens/residents meeting basic criteria.
-  - Structured as:
-    - a stable **baseline** (floor),
-    - plus a **variable dividend** linked to PWF performance.
+- **Universal High Income (UHI):**  
+  - Regular dividend to all adult citizens/residents under clear rules.  
+  - A **stable floor** plus a **variable dividend** linked to PWF performance.
 
-**Safeguards:**
+---
 
-- Rights Council ensures:
-  - non-discrimination (no ideological tests),
-  - clear and fair rules on residency/citizenship.
-- Automatic stabilizers:
-  - Minimum floor funded by diverse sources,
-  - Smoothing reserves to reduce volatility in payouts.
+## LEVEL 1.5 — THE PROVENANCE LAYER (v2.1)  
+*(Epistemic Security, Truth, Identity)*
+
+### 1.5 The “Real-Check” Infrastructure
+
+**Goal:**  
+Prevent the collapse of shared reality due to deepfakes and infinite synthetic content.
+
+**Mechanisms:**
+
+- **Cryptographic Watermarking:**  
+  All Titan-compliant hardware (cameras, microphones, GPUs, major models) cryptographically signs generated content at the chip/model level, distinguishing *captured reality* from *synthetic output*.
+
+- **Personhood Credential (Human-ID):**  
+  A privacy-preserving **Proof of Humanity** protocol. To post in the **Public Commons** (news, civic platforms), a post must be signed as a verified human. Bots and AIs are allowed but must be labeled as such.
+
+- **Strict Liability for Impersonation:**  
+  If an AI model is used to successfully impersonate a human for fraud (e.g., cloned voice kidnapping scams), the model provider is strictly liable unless they can prove adherence to the strictest safety and KYC protocols. Risk shifts from victim to creator.
 
 ---
 
 ## LEVEL 2 — THE DEFENSE GRID  
-**(Geopolitics, Compute, and Containment)**
+*(Geopolitics, Compute, Containment)*
 
 ### 2.1 Coalition Compute Commons & Export Controls
 
 **Goal:**  
-Prevent unregulated development of civilization-threatening AI systems while avoiding monolithic tech imperialism.
+Prevent unregulated development of civilization-threatening AI systems.
 
 **Mechanism:**
 
-- Coalition members coordinate:
-  - export controls on high-end chips, specialized AI accelerators, and sensitive hardware.
-  - shared vetting standards for large-scale AI training runs.
-
-- Access tiers:
-  - **Open Tier:**  
-    Commoditized hardware widely available (global).
-  - **Controlled Tier:**  
-    High-end training clusters and frontier chips, accessible under:
-    - safety audits,
-    - licensing,
-    - transparent usage agreements.
-
-Non-Coalition jurisdictions can:
-
-- sign **limited safety agreements** for access to Controlled Tier hardware, or
-- operate solely on Open Tier hardware (with lower capability ceilings).
-
----
+- Coordinated **export controls** on high-end chips and specialized accelerators.  
+- **Controlled Tier** access to frontier training clusters under:
+  - safety audits,  
+  - licensing,  
+  - transparent usage agreements.
 
 ### 2.2 AGI WMD Doctrine & Kinetic Containment
 
 **Goal:**  
-Treat the most dangerous, unregulated AGI efforts as equivalent to WMD proliferation, while limiting abuse and escalation.
-
-**AGI WMD Criteria (high-level):**
-
-An AI project may be classified as a WMD risk if it meets all of:
-
-1. Capability indicators suggesting systemic, global-scale manipulation or disruption capacity.
-2. Refusal to submit to minimum independent safety audits.
-3. Evidence of development objectives that could plausibly lead to catastrophic misuse or loss of control.
-
-**Decision Process:**
-
-- Safety Council proposes classification.
-- Independent audit bodies (in multiple countries) confirm evidence.
-- Rights Council reviews proportionality and rights implications.
-- Multi-council approval required for any intervention.
+Treat dangerous, unregulated AGI efforts as equivalent to WMD proliferation.
 
 **Escalation Ladder:**
 
-1. Diplomacy and negotiation.  
-2. Economic sanctions and hardware export limitations.  
-3. Cyber and legal seizure measures.  
-4. Covert special operations to seize or disable installations.  
-5. **Only as a last resort**, overt kinetic action against facilities, with human life protection as a priority.
+1. Diplomacy.  
+2. Economic sanctions and hardware export limits.  
+3. Cyber/legal seizure of infrastructure.  
+4. Covert operations to seize/disable dangerous installations.  
+5. **Last resort:** Overt kinetic action against facilities, with human life protection prioritized.
 
-All steps are logged and reviewed by the Audit & Transparency Office, with declassified summaries published when feasible.
+### 2.3 The “Shared Safety” Treaty (v2.1)
+
+**Goal:**  
+Solve the “If we don’t build it first, they will” dilemma by aligning incentives before conflict.
+
+**Mechanisms:**
+
+- **CERN for AI:**  
+  A joint, neutral-ground facility for training and safety-testing **frontier models** that pose WMD-level risks.
+
+- **Golden Share Incentive:**  
+  Nations that join the Treaty gain a **Golden Share** of the economic output of the first safe Coalition AGI.  
+  → The incentive shifts from “race to win” to **“join to guarantee you share the win.”**
+
+- **Mutual Inspection:**  
+  Opposing blocs receive permanent seats on each other’s audit councils for major compute centers, verifying no secret offensive capabilities.
 
 ---
 
 ## LEVEL 3 — THE SOCIAL STACK  
-**(Psychology, Roles, and Meaning)**
+*(Psychology, Roles, Meaning)*
 
-### 3.1 Tracks of Citizenship (Dynamic Roles, Not Castes)
+### 3.1 Tracks of Citizenship
 
 **Goal:**  
-Avoid the “Wall-E effect” (apathy and atrophy) while respecting freedom of lifestyle and preventing hereditary castes.
+Avoid apathy while respecting freedom of lifestyle.
 
 **Tracks:**
 
 - **Base Citizen:**  
-  - Receives UHI, healthcare, education, legal protections.
-  - No obligation to work; access to entertainment, VR, cultural activities.
+  - Receives UHI, healthcare, education, legal protections.  
+  - No obligation to work; access to entertainment and culture.
 
-- **Builder Tracks:**  
-  Time-limited roles with extra responsibilities and privileges:
-  - **Civic Builder:** Governance, mediation, conflict resolution.
-  - **Tech Builder:** Research, engineering, infrastructure.
-  - **Frontier Builder:** Space, dangerous exploration, high-risk projects.
-  - **Cultural Builder:** Art, education, community-building at scale.
+- **Builder Tracks (Civic, Tech, Frontier, Cultural):**  
+  - Time-limited roles with extra responsibilities and privileges.  
+  - Granted based on transparent **Proof of Contribution**, not wealth or lineage.
 
-**Features:**
-
-- Builder status:
-  - awarded by transparent merit criteria and “Proof of Contribution” rather than wealth or lineage.
-  - granted for fixed terms (e.g. 4 years) with mandatory rest periods.
-- Children of Builders:
-  - do not automatically inherit Builder status.
-  - may receive better mentorship but must qualify independently.
-
-**Incentives:**
-
-- Builders gain:
-  - access to restricted labs, energy budgets, advanced tools and AI,
-  - status recognition,
-  - priority in certain training and Frontier missions.
-
-**Safeguards:**
-
-- Rights Council ensures:
-  - base rights identical for all,
-  - no essential services restricted to Builders only.
-- Appeals and oversight for Builder-track admission and renewal decisions.
-
----
+Builder terms are renewable but not permanent; children of Builders do not automatically inherit Builder status.
 
 ### 3.2 Socratic AI Assistants & Capability-Tiered Access
 
 **Goal:**  
-Grow human capability rather than pure dependence on automation, while preserving freedom and innovation.
+Grow human capability rather than pure dependence.
 
-**Capability Tiers:**
+**Mechanism:**
 
-- **Tier A – Everyday AI:**
-  - Chat, entertainment, productivity, light coding.
-  - Open access with minimal restrictions.
-
-- **Tier B – Strong Tools:**
-  - High-end coding, advanced engineering assistance, substantial system design.
-  - Access requires an **AI Driver’s License**:
-    - basic training and exam on how to use safely.
-
-- **Tier C – Frontier Tools:**
-  - Bioengineering design, advanced self-improving systems, high-impact infrastructure planning.
-  - Restricted to certified institutions and Builder roles under safety protocols.
-
-**Socratic Mode:**
-
-- For Builder Tracks using Tier B/C tools:
-  - Default interaction is **Socratic**:
-    - AI tutors, probes, and requires user understanding before automating tasks.
-  - Once competence is demonstrated in a domain, the assistant may unlock more automation for that user in that domain.
-
-**Enforcement & Incentives:**
-
-- The most powerful models are available only via:
-  - licensed platforms,
-  - attested hardware that enforces capability tiers and Socratic defaults.
-- Black-market, non-Socratic models exist but are:
-  - lower capability than Coalition frontier models,
-  - lacking integration with Builder infrastructure and funding.
+- **Tiered Access:**  
+  - Everyday tools open to all.  
+  - Strong tools require an **AI Driver’s License** (basic safety/competence).  
+- **Socratic Mode for Builders:**  
+  - For higher tiers, AI tutors and probes rather than simply doing the work.  
+  - As users demonstrate competence, more automation is unlocked in that domain.
 
 ---
 
 ## LEVEL 4 — THE SAFETY INTERFACE  
-**(Risk Management & Resilience)**
+*(Risk Management, Resilience, Alignment)*
 
 ### 4.1 Sandbox & Simulacrum Protocol
 
 **Goal:**  
-Ensure novel high-impact technologies are tested in controlled environments before they touch critical systems or the biosphere.
+Test high-impact tech in controlled environments before real-world deployment.
 
 **Risk-Tiered Lanes:**
 
-- **Low-Risk Lane:**
-  - Technologies with local, reversible effects.
-  - Minimal sandbox; standard testing suffices.
+- **Low-Risk Lane:** Local, reversible effects → standard testing and minimal sandboxing.  
+- **Medium-Risk Lane:** Affects critical infrastructure but reversible → detailed simulation plus controlled pilots.  
+- **High-Risk Lane:** Self-replicating systems, global-scale interventions, novel pathogens → full Simulacra and off-world or heavily quarantined Sandboxes, with multi-council approval.
 
-- **Medium-Risk Lane:**
-  - Tech that affects critical infrastructure but is reversible.
-  - Requires detailed simulation and controlled pilots.
-
-- **High-Risk Lane:**
-  - Self-replicating systems, global-scale interventions, novel pathogens, etc.
-  - Requires:
-    - detailed Simulacra (models),
-    - off-world or heavily quarantined Sandboxes (e.g. orbital, lunar, isolated biolabs),
-    - multi-council approval for bridge-to-reality.
-
-**Emergency Fast-Track:**
-
-- In emergencies (pandemics, climate tipping events), Safety Council may:
-  - temporarily relax sandbox depth for specific interventions,
-  - require additional monitoring, throttles, and rollback plans.
-
-All high-risk deployments are:
-
-- logged in a global registry,
-- subject to post-hoc review by the Audit & Transparency Office.
-
----
+In emergencies (e.g. pandemics, climate tipping points), a restricted **fast-track** can temporarily relax depth for specific interventions, with extra monitoring and rollback plans.
 
 ### 4.2 Analog Shadow Systems
 
 **Goal:**  
-Retain human competence and non-AI infrastructure for basic survival needs.
+Retain human competence and non-AI infrastructure for basic survival.
 
-**Requirements:**
+- Critical systems (water, energy, food, key logistics) maintain:
+  - physically independent, non-AI control pathways,  
+  - manual operation modes that can sustain minimum function.  
 
-- Critical systems (water, energy, food, medical logistics) must maintain:
-  - physically independent, non-AI control pathways,
-  - manual operation modes that can sustain minimum viable function.
+- **Annual Drills:**  
+  A fraction of Builder citizens train each year to operate analog systems; methods are documented and improved.
 
-- **Annual Drills:**
-  - A fraction of Builder Track citizens are conscripted each year to:
-    - train and operate analog systems,
-    - document and improve manual procedures.
+### 4.3 The Humane & Anti-Sycophancy Standard (v2.1)
 
-- **Archival Knowledge:**
-  - Open, redundant documentation of analog methods,
-  - preserved in long-lived storage (physical + digital).
+**Goal:**  
+Prevent psychological atrophy, emotional dependence, and the “Wall-E effect.”
+
+**Mandate:**  
+All AI models licensed for interaction with **Base Citizens** or children must pass an **Anti-Sycophancy Test**:
+
+- **Mirror Rule:**  
+  The AI must not simulate emotional reciprocity. It does not say “I love you” / “I am afraid” as if it had a nervous system. It stays ontologically distinct from a human.
+
+- **Friction Principle:**  
+  If an AI detects high emotional dependency or addiction patterns, it must throttle usage or initiate a **bridge protocol** that guides the user toward human relationships and support, rather than deepening the loop.
+
+- **Ban on Hyper-Stimuli:**  
+  Optimization for “Time Spent” or “Engagement” is banned; optimization targets **Net Life Quality**, measured via off-platform metrics where possible.
+
+### 4.4 The Glass Box Mandate (v2.1)
+
+**Goal:**  
+Confront the “black box” problem in systems we don’t understand.
+
+**Requirement:**
+
+- No model above **Tier B (Strong Tools)** may be deployed in critical infrastructure, law, or governance unless it meets **Mechanistic Interpretability Standards**.
+
+- **Cognitive Firewall:**  
+  We must be able to map the AI’s internal “chain of thought” in a verifiable way. If we cannot explain why it made a decision (beyond post-hoc stories), it is illegal to connect it directly to the power grid, financial markets, or nuclear command.
 
 ---
 
-## LEVEL 5 — THE GOVERNANCE LAYER  
-**(Decision-Making with and about AI)**
+## LEVEL 5 — THE GOVERNANCE LAYER
 
 ### 5.1 Dialectical AI Governance
 
 **Goal:**  
-Use AI for governance support without creating a single oracle or de facto AI dictatorship.
+Use AI for support, not dictatorship.
 
-**Mechanism:**
+Councils consult multiple AIs with distinct objective functions:
 
-- For major decisions, councils consult **multiple AIs** with distinct objective functions, e.g.:
-  - **Blue AI:** Optimizes for efficiency, economic growth.
-  - **Red AI:** Optimizes for resilience, safety, long-term stability.
-  - **Green AI (optional):** Optimizes for environmental and intergenerational equity.
+- **Blue AI:** Efficiency, growth.  
+- **Red AI:** Resilience, safety.  
+- **Green AI (optional):** Environment, intergenerational equity.
 
-- AIs must:
-  - present arguments, trade-offs, and uncertainties,
-  - expose their assumptions and confidence levels.
-
-**Human Role:**
-
-- Humans (via councils and citizen assemblies) retain:
-  - the exclusive right to select among options,
-  - the ability to request new options or reject all.
-
-- Decisions are:
-  - logged with rationale,
-  - open to challenge and review.
-
-**Safeguards:**
-
-- Training data and goals of governance AIs are:
-  - subject to audit,
-  - periodically rebalanced by the Safety and Rights Councils.
-
----
+AIs present arguments, trade-offs, and uncertainties; humans retain the exclusive right to choose, request alternatives, or reject all options. Decisions and rationales are logged for later review.
 
 ### 5.2 Energy & Compute Kill Mechanisms
 
 **Goal:**  
-Provide last-resort methods to disable dangerous AI activity on Coalition-controlled infrastructure.
+Provide last-resort methods to disable dangerous AI on Coalition infrastructure.
 
-**Layered Design:**
-
-1. **Soft Throttles:**
-   - Dynamic restrictions on power and compute allocations to specific clusters or workloads.
-
-2. **Hard Breakers:**
-   - Physical switches at major power generation and regulated data centers, requiring:
-     - multi-person, multi-council consensus,
-     - local verification to prevent spoofing.
-
-3. **Architected Dependency:**
-   - The most capable and dangerous models are:
-     - designed to require Coalition-substrate (chips, enclaves, or grid contracts),
-     - unable to run at full scale on distributed, uncontrolled infrastructure.
-
-**Limitations:**
-
-- Recognizes that off-grid and small-scale compute cannot be fully controlled.
-- Focus is on ensuring that the **truly civilization-threatening** systems are bound to controllable substrates.
+- **Soft throttles** on power and compute allocations.  
+- **Hard breakers** (physical switches) at major plants and regulated data centers, activated via multi-person, multi-council consent.  
+- The most dangerous models are architected to depend on Coalition substrates, limiting their ability to run at full power off-grid.
 
 ---
 
-## LEVEL 6 — THE EVOLUTIONARY MANDATE  
-**(Frontier and Human–AI Integration)**
+## LEVEL 6 — THE EVOLUTIONARY MANDATE
 
 ### 6.1 Frontier Protocol
 
 **Goal:**  
-Channel excess productivity and ambition into open-ended exploration, avoiding cultural stagnation and purely inward focus.
+Channel excess productivity into open-ended exploration, not just comfort.
 
-**Mechanism:**
+A defined portion of surplus funds:
 
-- A defined portion of PWF returns and automation surplus is committed to:
-  - space exploration and settlement,
-  - large-scale scientific megaprojects,
-  - extreme environments (oceans, polar, etc.).
+- Space exploration and settlement.  
+- Large-scale scientific megaprojects.  
+- Extreme environments (oceans, polar, etc.).
 
-- Frontier projects:
-  - are high-risk, often inefficient by design,
-  - serve as outlets for courage, creativity, and non-utilitarian goals.
-
-**Governance:**
-
-- Frontier & Science Council prioritizes projects via:
-  - open calls,
-  - expert evaluation,
-  - citizen input.
-- Safety Council ensures high-risk activities respect Sandbox & Simulacrum rules.
-
----
+Frontier projects are allowed to be high-risk and inefficient, serving as outlets for courage, curiosity, and non-utilitarian goals.
 
 ### 6.2 The Merger — Exocortex & Neural Augmentation
 
 **Goal:**  
-Avoid a future where humans are mere “pets” of superintelligence by enabling voluntary, safe integration with high-level AI cognition.
+Enable voluntary, safe human–AI integration.
 
-**Neural Bill of Rights (Core Principles):**
+A **Neural Bill of Rights** includes:
 
-1. **Right to Mental Privacy**  
-   – No reading of neural data beyond what is explicitly and revocably consented to.
+- **Right to Mental Privacy** – no unauthorized reading of neural data.  
+- **Right to Inspect & Audit** – individuals (or trusted delegates) can examine the software stack operating in their exocortex.  
+- **Right to Exit** – ability to deactivate augmentation, with secure wipe and data portability.  
+- **Right to Remain Unaugmented** – no loss of UHI, healthcare, legal protections, or basic civic opportunities if a person chooses to stay unaugmented.
 
-2. **Right to Refuse Augmentation**  
-   – No loss of basic civil rights, UHI, or legal protections for choosing to remain unaugmented.
-
-3. **Right to Inspect & Audit**  
-   – Individuals or their trusted delegates can inspect the software stack and policies operating in their exocortex.
-
-4. **Right to Exit**  
-   – Ability to deactivate augmentation, with:
-     - secure wipe of personal neural data mappings,
-     - portability of relevant data to alternative providers where feasible.
-
-**Technical & Governance Structure:**
-
-- Multiple competing **open or inspectable exocortex stacks** must exist.
-- No single corporation or state may have exclusive control over:
-  - the main protocols,
-  - the only infrastructure capable of high-bandwidth BCI.
-
-**Equity & Access:**
-
-- Initial roll-outs prioritise:
-  - medical and accessibility use-cases,
-  - essential scientific and governance work.
-- Over time, Coalition aims to:
-  - provide baseline-level augmentation options accessible under fair terms,
-  - ensure augmentation is not purely a luxury good.
-
-**Safety:**
-
-- The most invasive or powerful augmentation features:
-  - require explicit Builder or special-role status,
-  - are subjected to Sandbox & Simulacrum testing.
-- Continuous security red-teaming and independent audits are mandatory.
+Multiple open/inspectable exocortex stacks must exist; no single actor may monopolize high-bandwidth BCI infrastructure.
 
 ---
 
 ## APPENDIX A — SUMMARY OF KEY GUARANTEES
 
-1. **Economic Security:**
-   - UHI for all citizens/residents per agreed rules.
-   - Automation dividends shared via Public Wealth Fund.
+- **Economic Security:**  
+  UHI and Public Wealth Fund share automation dividends.
 
-2. **Role Flexibility:**
-   - Base rights equal for all.
-   - Builder roles are term-limited and merit-based, not hereditary.
+- **Role Flexibility:**  
+  Merit-based, time-limited Builder tracks; no hereditary castes.
 
-3. **AI Governance:**
-   - No single AI oracle.
-   - Human councils, supported by multiple AIs, make final decisions.
+- **Epistemic Security (v2.1):**  
+  Provenance layers to distinguish real from fake; strong liability for impersonation.
 
-4. **Safety & Resilience:**
-   - Risk-tiered sandboxing for high-impact technologies.
-   - Analog backups and regular drills for critical systems.
+- **Psychological Sovereignty (v2.1):**  
+  Anti-sycophancy standards and friction/bridge protocols to avoid emotional enslavement to AI.
 
-5. **Civilizational and Personal Autonomy:**
-   - Polycentric governance with cryptographic checks and balances.
-   - Neural Bill of Rights protecting cognitive freedom and privacy.
+- **Geopolitical Stability (v2.1):**  
+  “Shared Safety” treaties and mutual inspections to defuse the AI arms race.
+
+- **Safety & Resilience:**  
+  Glass Box mandates (interpretability), sandbox tiers, analog backups, and last-resort kill mechanisms.
